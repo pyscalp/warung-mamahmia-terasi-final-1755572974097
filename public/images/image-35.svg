@@ -1,0 +1,11 @@
+<!-- public/images/product_sop_buntut.svg -->
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="300" height="200" rx="10" fill="#FFD700"/>
+<circle cx="150" cy="100" r="80" fill="#FF8C00"/>
+<path d="M150 30C150 30 100 70 100 120C100 150 120 170 150 170C180 170 200 150 200 120C200 70 150 30 150 30Z" fill="#FF4500"/>
+<path d="M120 80L110 90L130 90L120 80Z" fill="#FFFFFF"/>
+<path d="M180 80L170 90L190 90L180 80Z" fill="#FFFFFF"/>
+<path d="M150 120L140 130L160 130L150 120Z" fill="#FFFFFF"/>
+<text x="150" y="105" font-family="Arial" font-size="24" fill="#FFFFFF" text-anchor="middle" alignment-baseline="middle">Sop</text>
+<text x="150" y="130" font-family="Arial" font-size="24" fill="#FFFFFF" text-anchor="middle" alignment-baseline="middle">Buntut</text>
+</svg>
